@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meu primeiro post!
+title: Meu segundo post!
 status: process
 tags: R 
 ---
@@ -9,6 +9,7 @@ tags: R
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+Vou incluir um chunk
 
 ```{r cars}
 summary(cars)
