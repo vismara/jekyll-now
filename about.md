@@ -12,4 +12,4 @@ I teach statistics, biometrics and forest modelling. I am a R user since 2004.
 
 ### Contact me
 
-[email@domain.com](mailto:edgarvismara@utfpr.edu.br)
+[edgarvismara@utfpr.edu.br](mailto:edgarvismara@utfpr.edu.br)
