@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Biometrician from UTFPR/DV. A small Public University located in Parana State, Brazil
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I teach statistics, biometrics and forest modelling. I am a R user since 2004. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:edgarvismara@utfpr.edu.br)
